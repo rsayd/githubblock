@@ -1,0 +1,43 @@
+.container{
+width: 800px;
+height: 1000px;
+border: 3px solid white;
+}
+h1{
+text-align: center;
+font-size: 35px;
+}
+#box1{
+border: 3px solid white
+}
+.row{
+justify-content: space-around;
+display: flex;
+border: 3px solid purple;
+height: 250px;
+margin-top: 20px;
+align-items: center;
+background-color: purple;
+}
+img{
+height: 200px;
+}
+.middle{
+background-color: green;
+border: 3px solid green;
+}
+.bottom{
+text-align: center;
+font-size: x-small;
+}
+.rowlast{
+justify-content: space-around;
+display: flex;
+border: 3px solid white;
+height: 250px;
+ margin-top: 20px;
+align-items: center;
+background-color: white;
+}
+
+
